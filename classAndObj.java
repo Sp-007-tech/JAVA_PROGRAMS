@@ -1,11 +1,9 @@
 // class is user defined data type which define its properties and functions..
 class Student
 {
-
     String name;
     int age;
-
-
+    
     public void getInfo()
     {
         System.out.println("The name of the student is " + this.name);
@@ -15,9 +13,11 @@ class Student
 }
 
 public class classAndObj
+    
 {
     static public void main(String args[])
     {
+        
         // Obj is a runtime entity.It is an instance of the class.
         // When Obj is created using the new keyword, then space is allocated for var. in heap...
         Student s1 = new Student();
@@ -31,5 +31,6 @@ public class classAndObj
         s2.name = "SM";
         s2.age = 19;
         s2.getInfo();
+        
     }
 }
