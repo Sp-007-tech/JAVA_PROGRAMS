@@ -1,3 +1,5 @@
+// Even and Odd Numbers
+
 import java.util.Scanner;
 
 public class evenOddNumber {
@@ -10,8 +12,11 @@ public class evenOddNumber {
         int a =sc.nextInt();
 
         if(a%2 == 0){
+            
             System.out.println("Its a even number");
+            
         }else{
+            
             System.out.println("Its not a even number");
         }
     }
