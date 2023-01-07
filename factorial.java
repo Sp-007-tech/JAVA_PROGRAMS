@@ -1,3 +1,4 @@
+// Factorial in Java.
 
 import java.util.Scanner;
 
