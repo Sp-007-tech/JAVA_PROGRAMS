@@ -1,3 +1,5 @@
+// Star Pyramid.
+
 public class halfPyramid{
     static public void main(String args[]){
        
