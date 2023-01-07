@@ -1,3 +1,5 @@
+// Hollow pattern
+
 public class hollowPattern{
     public static void main(String args[]){
         int n = 10;
