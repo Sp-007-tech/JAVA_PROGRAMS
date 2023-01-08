@@ -1,3 +1,5 @@
+// Multiplication Table.
+
 public class multiplicationTable {
     static public void main(String args[]){
 
