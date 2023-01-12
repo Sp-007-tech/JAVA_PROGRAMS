@@ -1,3 +1,5 @@
+// Prime Number ...
+
 import java.util.Scanner;
 
 public class primeNumber {
