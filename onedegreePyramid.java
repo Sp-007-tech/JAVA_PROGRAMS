@@ -1,3 +1,4 @@
+// one degree pyramid .....
 public class onedegreePyramid{
     static public void main(String args[]){
         for(int i=5;i>=1;i--){
