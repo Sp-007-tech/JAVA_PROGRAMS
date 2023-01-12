@@ -1,3 +1,5 @@
+// Overriding In Java.
+
 class animal {
     void walk() {
         System.out.println("Animals can walk ");
