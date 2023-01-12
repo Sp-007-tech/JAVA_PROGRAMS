@@ -1,3 +1,5 @@
+// Palindrom String 
+
 import java.util.Scanner;
 public class palindromString {
     static public void main(String args[]){
