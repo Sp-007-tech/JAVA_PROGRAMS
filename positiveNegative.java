@@ -1,3 +1,5 @@
+// Positive and Negative Number.
+
 import java.util.Scanner;
 
 public class positiveNegative {
