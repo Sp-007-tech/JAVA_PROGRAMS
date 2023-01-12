@@ -1,3 +1,5 @@
+// Palindrome in Java.
+
 import java.util.Scanner;
 
 public class palindrom {
