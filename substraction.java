@@ -1,3 +1,5 @@
+// Substraction 
+
 import java.util.Scanner;
 
 public class substraction {
